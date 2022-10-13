@@ -4,4 +4,4 @@ echo $?
 x=$1
 x=`expr $x + 1`
 echo $x
-echo "how are you"
+echo "sample testing"
