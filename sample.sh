@@ -1,4 +1,4 @@
-echo "hello world"
+echo "Devops automation test"
 grep "echo1" sample.sh
 echo $?
 x=$1
