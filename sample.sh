@@ -1,4 +1,4 @@
-echo "hello india123"
+echo "hello world"
 grep "echo1" sample.sh
 echo $?
 x=$1
